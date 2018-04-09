@@ -1,4 +1,4 @@
-### Optional
+## Optional
 
 "_Our intention was to provide a **limited mechanism for library method return types** where there needed to be a clear way to represent “no result”, and using null for such was overwhelmingly likely to cause errors._"
 
