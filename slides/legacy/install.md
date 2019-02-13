@@ -1,4 +1,4 @@
-## Legacy install
+## Legacy installation
 
 Order is important !
 1. [ce-ldap](https://innersource.soprasteria.com/bankway-dxp-install/kube-ms-deploy/blob/master/INTEGRATION2/usecase-ce/ce-ldap.yml)

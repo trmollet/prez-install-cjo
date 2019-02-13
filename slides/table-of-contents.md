@@ -1,6 +1,6 @@
 ## Table of contents
 
 * Prerequisites
-* CJO namespace configuration
-* Install legacy
-* Install ms
+* CJO infra
+* Legacy installation
+* CJO installation
